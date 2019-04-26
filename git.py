@@ -12,7 +12,17 @@ print(' hallo guyss')
 # langkah untuk melihat versi sebelumnya
 # git log ===> untuk melihat log
 # git log --oneline ===> untuk melihat commit
-# git checkout (idgit) ===> untuk kembali ke commit berapa
+# git checkout (commitid) ===> untuk kembali ke commit berapa
+# git checkout master ====> untuk kembali ke versi terakhir
+
+
+# git push origin (master) =====> untuk upload ke github (master) file terkahir yang kita edit
 
 # =========================================================================
-# commit kedua sekarang
+
+# git reset (commitid) --hard ====> untuk mereset file
+
+# git clone (link) ======> untuk mengcopy
+
+
+# commit keempat sekarang
